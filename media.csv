@@ -1,5 +1,5 @@
 name,source,file
-electric car,https://www.tesla.com/en_eu/model3,media/electric-car.jpg
+Electric car,https://www.tesla.com/en_eu/model3,media/electric-car.jpg
 km formula,https://doi.org/10.3390/su16177529,media/km-formula.svg
 model classes,https://huggingface.github.io/AIEnergyScore/,media/model-classes.svg
 Mendrisio station,https://www.sbb.ch/en/station-services/at-the-station/railway-stations/station.5305.mendrisio.html,media/mendrisio-station.jpg
