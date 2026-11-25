@@ -5,7 +5,7 @@ authors: Jennifer Ji, Victoria Mezo
 
 **Generative AI** (text) feels weightless, yet every answer is computed on physical chips (**GPUs**) that draw electricity from the grid. Our sub-topic is the electricity of **AI inference**: the energy needed to use a model once it has been trained. It connects to the Materialities of AI [[Crawford, 2021. Atlas of AI|https://yalebooks.yale.edu/9780300264630/atlas-of-ai|type=bibliography]] through its most direct material input, **electricity**, and the hardware and data centres behind it.
 
-*How far could an electric car drive on the GPU electricity that different AI models need to answer the same 1,000 prompts?*
+*How far could an electric [[car]] drive on the GPU electricity that different AI models need to answer the same 1,000 prompts?*
 
 We used the [Hugging Face AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/Leaderboard): 62 open text-generation models (reasoning off), each tested with the same 1,000 prompts on the same hardware and measured in kWh of GPU electricity. We converted each value into kilometres using the consumption of an electric car, 20.7 kWh per 100 km [[Weiss et al., 2024. Energy Consumption of Electric Vehicles in Europe|https://doi.org/10.3390/su16177529|type=bibliography]], and placed the distances on the real road from Mendrisio to Lugano along the lake (18.4 km, route computed with OSRM on [OpenStreetMap](https://www.openstreetmap.org) data).
 
