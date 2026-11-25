@@ -5,3 +5,4 @@ model classes,https://huggingface.github.io/AIEnergyScore/,media/model-classes.s
 Mendrisio station,https://www.sbb.ch/en/station-services/at-the-station/railway-stations/station.5305.mendrisio.html,media/mendrisio-station.jpg
 Lugano,https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/turismo/,media/lugano.jpg
 GPU,https://www.nvidia.com/en-us/data-center/h100/,media/gpu.png
+reasoning off image,https://huggingface.co/blog/sasha/ai-energy-score-v2,media/reasoning-off.jpg
